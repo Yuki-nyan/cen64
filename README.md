@@ -2,13 +2,6 @@
   <img src="/assets/logo.png" />
 </p>
 
-# Just give me a copy!
-* Windows: https://www.cen64.com/uploads/stable/cen64-windows-x86_64.exe
-* Linux: https://www.cen64.com/uploads/stable/cen64-debian9-x86_64
-* Mac: It works, but unfortunately you have to build it yourself for now.
-
-Buildbot: https://github-buildbot.cen64.com/builders
-
 # About
 
 Yes, _another_ Nintendo 64 emulator. This one, however, aims for _perfect_
@@ -36,16 +29,18 @@ further ado... "Get N or get out"!
 If you want to contribute, please do! Pull requests are most certainly
 welcome. Feel free to add yourself to the CONTRIBUTORS file as well.
 
-# Keyboard controls
+# Keyboard controls (Optimised for 8bitdo N64 Bluetooth Controller)
+
+**Turn on the controller by holding Start + B to enable Keyboard emulation mode**
 
 * 3D stick:       arrow keys
-* A button:       X
-* B button:       C
-* Z button:       Z
-* Start button:   enter
-* L/R buttons:    A/S
-* C-pad:          TFGH
-* D-pad:          IJKL
+* A button:       G
+* B button:       J
+* Z button:       N
+* Start button:   O
+* L/R buttons:    K/M
+* C-pad:          CEDF
+* D-pad:          LIH2
 
 # Build requirements
 
